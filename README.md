@@ -50,6 +50,6 @@ increase in Percent Salary Hike on Monthly Income.
 17. Verify if the data adheres to a predefined schema. What actions would you take if you
 find inconsistencies?
 
-## Click here for solution :[Here][(https://github.com/SimranGodsey/Esports-Tournament/blob/main/Challenge%20No%20%3A%202](https://medium.com/@simrangodse18/hr-data-analysis-assessment-d1983ea3c930))
+## Click here for solution :[Here](https://medium.com/@simrangodse18/hr-data-analysis-assessment-d1983ea3c930)
 
 
