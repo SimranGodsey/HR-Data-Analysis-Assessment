@@ -1,5 +1,9 @@
 # HR-Data-Analysis-Assessment
 
+<p align="center">
+<img src="https://github.com/SimranGodsey/HR-Data-Analysis-Assessment/blob/main/Psyliq.png">
+
+
 ## Table Of Contents
 - [Introduction](#introduction)
 - [Datasets](#Datasets)
